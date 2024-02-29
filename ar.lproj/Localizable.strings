@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  HRApp
+
+  Created by yousef mandani on 29/02/2024.
+  
+*/
+"name" = "الاسم";
+"photo" = "الصورة";
+"phone" = "الهاتف";
+"email" = "الايميل";
+"salary" = "المعاش";
+"iban" = "الايبان";
+"send" = "ارسال";
+"Text recruiting is a popular way to reach potential job candidates while saving time and money. It can let you know quickly who’s still interested in your position so you can focus their attention on the people who have the greatest chance of accepting your job offer. It also allows you to send automated replies to questions job seekers might have about your position and to remind candidates about upcoming interviews and application steps.This guide reviews what you need to know about text recruiting and how to create successful recruiting campaigns." = "يعد التوظيف النصي وسيلة شائعة للوصول إلى المرشحين المحتملين للوظائف مع توفير الوقت والمال. ويمكن أن يتيح لك معرفة سريعًا من لا يزال مهتمًا بمنصبك حتى تتمكن من تركيز انتباههم على الأشخاص الذين لديهم أكبر فرصة لقبول عرض عملك. كما يسمح لك بإرسال ردود آلية على الأسئلة التي قد تكون لدى الباحثين عن عمل حول منصبك ولتذكير المرشحين بالمقابلات القادمة وخطوات التقديم. يستعرض هذا الدليل ما تحتاج إلى معرفته حول التوظيف النصي وكيفية إنشاء حملات توظيف ناجحة.";
+"Name: " = "الاسم: ";
+"Email: " = "الايميل: ";
+"Phone Number: " = "رقم الهاتف: ";
+"IBAN: " = "الايبان: ";
+"Salary: " = "المعاش: ";
+ 
